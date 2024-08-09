@@ -1,0 +1,11 @@
+{
+"firstNameRequiredMessage": "First Name is required.",
+"lastNameRequiredMessage": "Last Name is required.",
+"emailRequiredMessage": "Email Address is required.",
+"emailVerificationRequiredMessage": "Email Address Verification is required.",
+"stateRequiredMessage": "State is required.",
+"postalCodeRequiredMessage": "Postal Code is required.",
+"resumeRequiredMessage": "Resume is required (minimum 200 characters).",
+"formatCVPopUpMessage":"The document you have chosen is not doc/docx/pdf format."
+
+}
